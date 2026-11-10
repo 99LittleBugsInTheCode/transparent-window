@@ -1,0 +1,10 @@
+# build outputs (tests are rebuilt by build_tests.bat)
+dist/test/
+
+# local/temp
+*.log
+.upload/
+.vs/
+bin/
+obj/
+node_modules/
